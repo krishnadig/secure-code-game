@@ -1,4 +1,4 @@
-# SonarQube Key b5d9b08084f437ba6586c99a6d4ac99df660f1c4
+# SonarQube Key 3ec206234c53bbb04cb73a85db008469ee2f89d4
 name: Performing Checks in SonarQube
 
 on: push
