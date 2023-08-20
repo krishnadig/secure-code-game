@@ -1,4 +1,4 @@
-# Test
+# Test Fix Applied in SonarQube Cloud
 name: Performing Checks in Snyk
 on: push
 jobs:
