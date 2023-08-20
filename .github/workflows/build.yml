@@ -1,5 +1,5 @@
 # SonarQube Key 3ec206234c53bbb04cb73a85db008469ee2f89d4
-name: Build
+name: SonarQube Build
 on:
   push:
     branches:
